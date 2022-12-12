@@ -1,5 +1,5 @@
 # Neuschwanstein-Castle-Blender
-Fall 2022, I took a introduction to 3D modeling course using Blender. My final project was to create a complex scene. So, I decided to loosely recreate a castle I would love to see. I made this over a course of a week. Might clean it up and create a printable model at a later date.
+Fall 2022, I took a introduction to 3D modeling course using Blender. My final project was to create a complex scene. So, I decided to loosely recreate a castle I would love to see. I made this over a course of a week. The model has an obsessive number of windows, so I had to create a boolean object to stamp out the windows. With how boolean operations work, the model is hard to compute when moving around objects. So just a heads up if you try to move anything. Might clean it up and create a printable model at a later date.
 
 ## References
 - [Blue Corrugated Metal Texture](https://stock.adobe.com/images/blue-corrugated-metal-sheet-texture-background/66459282)
